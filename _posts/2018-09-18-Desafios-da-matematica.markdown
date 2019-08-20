@@ -17,7 +17,7 @@ A matemática é muitas vezes ensinada na escola apenas como uma disciplina de m
 </p>
 
 ### Conheça nosso projeto
-•[Conheça nosso Instagram](https://www.instagram.com/desafios_matematica/?hl=pt-br)
+•[@Desafios_matematica](https://www.instagram.com/desafios_matematica/?hl=pt-br)
 
 ### Membros
 
