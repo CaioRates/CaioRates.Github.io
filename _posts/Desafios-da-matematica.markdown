@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Desafios da Matemática"
-date: 1998-09-18
+date: 2018-09-18
 categories:
-  - Sobre mim
+  - Projetos
 description:
 image: \img\talvez.jpg
 image-sm: (\img\talvez.jpg)
 ---
-Prazer, Sou Caio Gabriel e você está acessando minhas informações, iniciarei com uma pequena apresentação, esse é meu blog pessoal e sou um estudante de licenciatura em matemática, cursado na Universidade Federal de Viçosa campus florestal. O intuito desse blog é ampliar meu conhecimento na área de computação e poder ter um site que possa compartilhar conhecimentos e projetos futuros para um compartilhamento de conhecimento.
+Essa parte irei descorrer sobre um projeto de extenção
