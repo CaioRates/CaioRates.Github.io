@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566260603031.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3720038277",
+    "id" : "D735E0E0",
+    "lastKnownWriteTime" : 1566260667,
+    "last_content_update" : 1566260667169,
+    "path" : "~/CaioRates.Github.io/_config.yml",
+    "project_path" : "_config.yml",
+    "properties" : {
+        "cursorPosition" : "13,18",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
