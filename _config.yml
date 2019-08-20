@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: Caiorrbiel@hotmail.com
-permalink: /:1998/:09/:18/:Caio Rates/
+permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 title: Caio Rates
