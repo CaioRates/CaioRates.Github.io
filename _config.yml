@@ -13,8 +13,8 @@ default_img:
 # Profile settings
 name: Caio Gabriel
 profile_img: "/img/Banner.jpg"
-profile: 
-social:
+profile: Qualquer duvida ou erro em alguma publicação, entre em contato para melhor desenvolvimento do site.
+social: 
   github: 
 
 # Build settings
