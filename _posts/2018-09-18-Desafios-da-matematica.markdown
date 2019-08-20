@@ -5,8 +5,8 @@ date: 2019-08-20
 categories:
   - Projetos
 description:
-image: "\img\\Desafios.jpg"
-image-sm: "\img\\Desafios.jpg"
+image: "img\\Desafios.jpg"
+image-sm: "img\\Desafios.jpg"
 ---
 ### Projeto
 <p style="text-align: justify;">
