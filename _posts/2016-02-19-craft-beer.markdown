@@ -6,6 +6,6 @@ categories:
   - Sobre mim
 description:
 image: https://images6.alphacoders.com/792/792975.jpg
-image-sm: https://photos.google.com/search/_tra_/photo/AF1QipNvwDp1doflklamSFr3jrvK0m9L66LexpW8xxBi
+image-sm: https://images6.alphacoders.com/792/792975.jpg
 ---
 Prazer, Sou Caio Gabriel e você está acessando minhas informações, iniciarei com uma pequena apresentação, esse é meu blog pessoal e sou um estudante de licenciatura em matemática, cursado na Universidade Federal de Viçosa campus florestal. O intuito desse blog é ampliar meu conhecimento na área de computação e poder ter um site que possa compartilhar conhecimentos e projetos futuros para um compartilhamento de conhecimento.
