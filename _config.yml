@@ -12,7 +12,7 @@ default_img:
 
 # Profile settings
 name: Caio Gabriel
-profile_img: "img//Perfil.jpg"
+profile_img: "/img/Banner.jpg"
 profile: 
 social:
   github: 
