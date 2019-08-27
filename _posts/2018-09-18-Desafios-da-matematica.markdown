@@ -7,6 +7,7 @@ categories:
 description:
 image: "img//Desafios.jpg"
 image-sm: "img//Desafios.jpg"
+image-sm: "img//Banner.jpg"
 ---
 ### Projeto
 <p style="text-align: justify;">
